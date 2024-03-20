@@ -1,3 +1,4 @@
-![go-floatgen](https://github.com/unixlinuxgeek/logos/blob/b52794ff3a36b709e34d79799df11592d432f814/512x512/go-floatgen.png)
+![go-floatgen](https://raw.githubusercontent.com/unixlinuxgeek/logos/main/256x256/go-floatgen.png)
+
 
 ### Go Utility For Generating float64
